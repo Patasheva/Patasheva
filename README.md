@@ -3,7 +3,7 @@
 - 🤖 Focused on developing high-performance AI trading algorithms.
 - 🤝 Looking to collaborate with fellow data enthusiasts and continuously improve my machine learning expertise.
 - 🛠️ Python, R, SQL.
-- 📩 Contact me on LinkedIn: https://www.linkedin.com/in/olga-patasheva/.
+- 📩 Join me on LinkedIn: https://www.linkedin.com/in/olga-patasheva/.
 
 
 
